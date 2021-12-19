@@ -1,0 +1,13 @@
+body{
+    background-image : url(asset.jpg);
+    padding-top: 100;
+}
+h1{
+    color: white;
+}
+label{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: yellow;
+    padding-top: 200; 
+}
